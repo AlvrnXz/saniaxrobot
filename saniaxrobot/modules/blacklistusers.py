@@ -9,7 +9,7 @@ from saniaxrobot import (
     TIGERS,
     WOLVES,
     dispatcher,
-) 
+)
 from saniaxrobot.modules.helper_funcs.chat_status import dev_plus
 from saniaxrobot.modules.helper_funcs.extraction import (
     extract_user,
